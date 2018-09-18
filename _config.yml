@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'aqingxin个人博客'
+title: 'aqingxin的个人博客'
 description: '昵称aqingxin，前端开发者/伪极客，热爱技术。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: 'aqingxin, aqingxin的独立博客, aqingxin的博客, 前端, 前端开发, 前端博客, javascript, vuejs, 微信小程序, nodejs'
+keyword: 'aqingxin, aqingxin的个人博客, aqingxin的博客, 前端, 前端开发, 前端博客, javascript, vuejs, 微信小程序, nodejs'
 url: 'http://github.com/aqingxin' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -49,10 +49,8 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  weibo: '//weibo.com/3187835755/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1'
+  github: '//github.com/aqingxin'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
