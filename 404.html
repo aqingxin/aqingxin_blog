@@ -1,7 +1,16 @@
 ---
-layout: page
-title: Oops!
+layout: default
+description: "Sorry, Page Not Found :("
 ---
-<h3 class="nice-title">Seems like you've hit a 404</h3>
-<img src="/assets/images/404_minions.jpg" alt="file not found" />
-<p class="post-text">Our sophisticated engineers are already looking into the problem, as seen above. Meanwhile, why don't you visit <a href="/">home</a> or use the <a href="https://cse.google.com/cse/publicurl?cx=003035258940616995769:m-fwfnrmgkw">search</a> feature.</p>
+
+{% include header.html %}
+
+<header class="g-banner np-banner {{ site.postPatterns | prepend: 'post-pattern-' }}" data-theme="{{ site.theme-color }}">
+    <div class="post-wrapper">
+        <h1>404</h1>
+        <span class="subheading">{{ page.description }}</span>
+        <a href="{{ site.nav.home }}" class="btn">Back to home</a>
+    </div>
+</header>
+
+
