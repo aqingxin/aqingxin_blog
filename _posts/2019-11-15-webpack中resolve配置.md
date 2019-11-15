@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '小程序语音识别demo'
-subtitle: '小程序结合百度SDK、Node做一个语音识别的deom'
-date: 2018-12-10
+title: 'webpack中resolve的配置'
+subtitle: 'webpack中resolve的配置'
+date: 2019-11-15
 categories: 技术
 tags: webpack
 ---
